@@ -1,0 +1,18 @@
+
+---
+
+name: Test
+address:
+  line1: My Address Line 1
+  line2: Address line 2
+  city: Washington D.C.
+  zip: 20000
+roles: user
+
+name: siva
+address:
+  line1: My Address Line 1
+  line2: Address line 2
+  city: Washington D.C.
+  zip: 20000
+roles: aaaa
